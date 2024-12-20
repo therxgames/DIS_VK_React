@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'VK Sans Text';
+  font-weight: 300;
+  font-style: normal;
+  src:
+      url('/fonts/VK_Sans_Text/VK_Sans_Text_Light.ttf') format('ttf'),
+}
+
+@font-face {
+  font-family: 'VK Sans Text';
+  font-weight: normal;
+  font-style: normal;
+  src:
+      url('/fonts/VK_Sans_Text/VK_Sans_Text_Regular.ttf') format('ttf'),
+}
+
+@font-face {
+  font-family: 'VK Sans Text';
+  font-weight: 500;
+  font-style: normal;
+  src:
+      url('/fonts/VK_Sans_Text/VK_Sans_Text_Medium.ttf') format('ttf'),
+}
+
+@font-face {
+  font-family: 'VK Sans Text';
+  font-weight: 600;
+  font-style: normal;
+  src:
+      url('/fonts/VK_Sans_Text/VK_Sans_Text_DemiBold.ttf') format('ttf'),
+}
+
+@font-face {
+  font-family: 'VK Sans Text';
+  font-weight: 700;
+  font-style: normal;
+  src:
+      url('/fonts/VK_Sans_Text/VK_Sans_Text_Bold.ttf') format('ttf'),
+}

@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'VK Sans Display';
+  font-weight: 300;
+  font-style: normal;
+  src:
+      url('/fonts/VK_Sans_Display/EOT/VK_Sans_Display_Light.eot') format('eot'),
+      url('/fonts/VK_Sans_Display/OTF/VK_Sans_Display_Light.otf') format('otf'),
+      url('/fonts/VK_Sans_Display/TTF/VK_Sans_Display_Light.ttf') format('ttf'),
+      url('/fonts/VK_Sans_Display/WOFF/VK_Sans_Display_Light.woff') format('woff'),
+      url('/fonts/VK_Sans_Display/WOFF2/VK_Sans_Display_Light.woff2') format('woff2'),
+}
+
+@font-face {
+  font-family: 'VK Sans Display';
+  font-weight: 300;
+  font-style: italic;
+  src:
+      url('/fonts/VK_Sans_Display/EOT/VK_Sans_Display_Light_Italic.eot') format('eot'),
+      url('/fonts/VK_Sans_Display/OTF/VK_Sans_Display_Light_Italic.otf') format('otf'),
+      url('/fonts/VK_Sans_Display/TTF/VK_Sans_Display_Light_Italic.ttf') format('ttf'),
+      url('/fonts/VK_Sans_Display/WOFF/VK_Sans_Display_Light_Italic.woff') format('woff'),
+      url('/fonts/VK_Sans_Display/WOFF2/VK_Sans_Display_Light_Italic.woff2') format('woff2'),
+}
+
+@font-face {
+  font-family: 'VK Sans Display';
+  font-weight: normal;
+  font-style: normal;
+  src:
+      url('/fonts/VK_Sans_Display/EOT/VK_Sans_Display_Regular.eot') format('eot'),
+      url('/fonts/VK_Sans_Display/OTF/VK_Sans_Display_Regular.otf') format('otf'),
+      url('/fonts/VK_Sans_Display/TTF/VK_Sans_Display_Regular.ttf') format('ttf'),
+      url('/fonts/VK_Sans_Display/WOFF/VK_Sans_Display_Regular.woff') format('woff'),
+      url('/fonts/VK_Sans_Display/WOFF2/VK_Sans_Display_Regular.woff2') format('woff2'),
+}
+
+@font-face {
+  font-family: 'VK Sans Display';
+  font-weight: normal;
+  font-style: italic;
+  src:
+      url('/fonts/VK_Sans_Display/EOT/VK_Sans_Display_Italic.eot') format('eot'),
+      url('/fonts/VK_Sans_Display/OTF/VK_Sans_Display_Italic.otf') format('otf'),
+      url('/fonts/VK_Sans_Display/TTF/VK_Sans_Display_Italic.ttf') format('ttf'),
+      url('/fonts/VK_Sans_Display/WOFF/VK_Sans_Display_Italic.woff') format('woff'),
+      url('/fonts/VK_Sans_Display/WOFF2/VK_Sans_Display_Italic.woff2') format('woff2'),
+}
+
+@font-face {
+  font-family: 'VK Sans Display';
+  font-weight: 500;
+  font-style: normal;
+  src:
+      url('/fonts/VK_Sans_Display/EOT/VK_Sans_Display_Medium.eot') format('eot'),
+      url('/fonts/VK_Sans_Display/OTF/VK_Sans_Display_Medium.otf') format('otf'),
+      url('/fonts/VK_Sans_Display/TTF/VK_Sans_Display_Medium.ttf') format('ttf'),
+      url('/fonts/VK_Sans_Display/WOFF/VK_Sans_Display_Medium.woff') format('woff'),
+      url('/fonts/VK_Sans_Display/WOFF2/VK_Sans_Display_Medium.woff2') format('woff2'),
+}
+
+@font-face {
+  font-family: 'VK Sans Display';
+  font-weight: 500;
+  font-style: italic;
+  src:
+      url('/fonts/VK_Sans_Display/EOT/VK_Sans_Display_Medium_Italic.eot') format('eot'),
+      url('/fonts/VK_Sans_Display/OTF/VK_Sans_Display_Medium_Italic.otf') format('otf'),
+      url('/fonts/VK_Sans_Display/TTF/VK_Sans_Display_Medium_Italic.ttf') format('ttf'),
+      url('/fonts/VK_Sans_Display/WOFF/VK_Sans_Display_Medium_Italic.woff') format('woff'),
+      url('/fonts/VK_Sans_Display/WOFF2/VK_Sans_Display_Medium_Italic.woff2') format('woff2'),
+}
+
+@font-face {
+  font-family: 'VK Sans Display';
+  font-weight: 600;
+  font-style: normal;
+  src:
+      url('/fonts/VK_Sans_Display/EOT/VK_Sans_Display_DemiBold.eot') format('eot'),
+      url('/fonts/VK_Sans_Display/OTF/VK_Sans_Display_DemiBold.otf') format('otf'),
+      url('/fonts/VK_Sans_Display/TTF/VK_Sans_Display_DemiBold.ttf') format('ttf'),
+      url('/fonts/VK_Sans_Display/WOFF/VK_Sans_Display_DemiBold.woff') format('woff'),
+      url('/fonts/VK_Sans_Display/WOFF2/VK_Sans_Display_DemiBold.woff2') format('woff2'),
+}
+
+@font-face {
+  font-family: 'VK Sans Display';
+  font-weight: 600;
+  font-style: italic;
+  src:
+      url('/fonts/VK_Sans_Display/EOT/VK_Sans_Display_DemiBold_Italic.eot') format('eot'),
+      url('/fonts/VK_Sans_Display/OTF/VK_Sans_Display_DemiBold_Italic.otf') format('otf'),
+      url('/fonts/VK_Sans_Display/TTF/VK_Sans_Display_DemiBold_Italic.ttf') format('ttf'),
+      url('/fonts/VK_Sans_Display/WOFF/VK_Sans_Display_DemiBold_Italic.woff') format('woff'),
+      url('/fonts/VK_Sans_Display/WOFF2/VK_Sans_Display_DemiBold_Italic.woff2') format('woff2'),
+}
+
+@font-face {
+  font-family: 'VK Sans Display';
+  font-weight: 700;
+  font-style: normal;
+  src:
+      url('/fonts/VK_Sans_Display/EOT/VK_Sans_Display_Bold.eot') format('eot'),
+      url('/fonts/VK_Sans_Display/OTF/VK_Sans_Display_Bold.otf') format('otf'),
+      url('/fonts/VK_Sans_Display/TTF/VK_Sans_Display_Bold.ttf') format('ttf'),
+      url('/fonts/VK_Sans_Display/WOFF/VK_Sans_Display_Bold.woff') format('woff'),
+      url('/fonts/VK_Sans_Display/WOFF2/VK_Sans_Display_Bold.woff2') format('woff2'),
+}
+
+@font-face {
+  font-family: 'VK Sans Display';
+  font-weight: 700;
+  font-style: italic;
+  src:
+      url('/fonts/VK_Sans_Display/EOT/VK_Sans_Display_Bold_Italic.eot') format('eot'),
+      url('/fonts/VK_Sans_Display/OTF/VK_Sans_Display_Bold_Italic.otf') format('otf'),
+      url('/fonts/VK_Sans_Display/TTF/VK_Sans_Display_Bold_Italic.ttf') format('ttf'),
+      url('/fonts/VK_Sans_Display/WOFF/VK_Sans_Display_Bold_Italic.woff') format('woff'),
+      url('/fonts/VK_Sans_Display/WOFF2/VK_Sans_Display_Bold_Italic.woff2') format('woff2'),
+}
